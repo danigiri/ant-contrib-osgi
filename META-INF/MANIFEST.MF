@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: ant-contrib-osgi
+Bundle-SymbolicName: org.apache.ant.ant-contrib
+Bundle-Version: 1.0.0.b3
+Bundle-Vendor: Apache Ant (Developer), Calidos (Packager)
+Fragment-Host: org.apache.ant
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
